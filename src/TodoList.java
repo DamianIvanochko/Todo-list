@@ -4,7 +4,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Main {
+public class TodoList {
     public static void main(String[] args) {
         int countCatchClause = 0;
 
